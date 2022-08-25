@@ -1,0 +1,5 @@
+*.pkl
+__pycache__/
+found_directory/
+not_found_directory/
+Sample data/
